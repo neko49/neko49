@@ -1,8 +1,5 @@
 # Hi, I'm Neko 🐱 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=500&lines=Développeur+Java+%2F+Data+Engineer)
-
-
 
 - 🔭 I’m currently working with Wagram Stories as Data Engineer
 <!--

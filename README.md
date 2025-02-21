@@ -1,5 +1,7 @@
 # Hi, I'm Neko 🐱 👋
 
+
+- 🔭 I’m currently working with Wagram Stories as Data Engineer
 <!--
 **neko49/neko49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

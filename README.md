@@ -33,7 +33,24 @@ Polyvalent et passionné par les défis techniques, j'apprécie particulièremen
 <p align="left"> &emsp; <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"> </a> &emsp; <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white"> </a> &emsp; <a href="https://cloud.google.com/" target="_blank"> <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"> </a> &emsp; </p>
 
 ### 👉 Tools & Development Environments
-<p align="left"> &emsp; <a href="https://git-scm.com/" target="_blank"> <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"> </a> &emsp; <a href="https://github.com/" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"> </a> &emsp; <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white"> </a> &emsp; <a href="https://www.jetbrains.com/idea/" target="_blank"> <img alt=" ::contentReference[oaicite:0]{index=0}
+<p align="left">
+  &emsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img alt="JetBrains IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white">
+  </a>
+</p>
 
 ## 📊 Github Stats (Expand to View) 
 

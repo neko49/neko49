@@ -5,7 +5,7 @@
   </a>
 </p>
 <hr/>
-<h4 align="center">Passionné par le développement et la data, j'ai été Assistant Javascript durant un an, puis Assistant Data Engineer chez Sephora la deuxième année. J'y ai contribué à la collecte, l'ingestion, le traitement et la mise à disposition des données pour répondre aux besoins des différentes équipes. J'utilisais les services de Google Cloud Platform, tels que Dataflow, Composer, BigQuery et Cloud Storage, ainsi que les langages Python et Java, pour concevoir, maintenir et faire évoluer les flux ETL.
+<h4 align="center">Passionné de chat 🐈‍⬛ et par le développement et la data, j'ai été Assistant Javascript durant un an, puis Assistant Data Engineer chez Sephora la deuxième année. J'y ai contribué à la collecte, l'ingestion, le traitement et la mise à disposition des données pour répondre aux besoins des différentes équipes. J'utilisais les services de Google Cloud Platform, tels que Dataflow, Composer, BigQuery et Cloud Storage, ainsi que les langages Python et Java, pour concevoir, maintenir et faire évoluer les flux ETL.
 
 Après l'obtention d'une licence en Web & Mobile Development et d'un master en Big Data & Intelligence Artificielle, j'évolue actuellement en tant que Data Engineer avec une casquette de développeur chez Wagram Stories. Mes missions sont variées, allant de la résolution de bugs critiques – comme la correction d'une faille permettant de contourner la réinitialisation obligatoire des mots de passe tous les six mois – jusqu'à l'automatisation et l'optimisation de l'extraction des données et des exports.
 
